@@ -1,6 +1,7 @@
-# v-wp-tw-starter
+# Venat's Embrace 
+## A FFXIV FC Website
 
-> A starter project for future VueJS, Webpack, SCSS and tailwindcss projects
+> A FFXIV Free company website using VueJS, Webpack, SCSS and tailwindcss.
 
 ## Build Setup
 
